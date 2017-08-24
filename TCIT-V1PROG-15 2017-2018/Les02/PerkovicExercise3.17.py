@@ -1,0 +1,6 @@
+print(eval('2 * 3 + 1'))
+print(eval('hello'))
+print(eval("'hello' + ' ' + 'world'"))
+print(eval("'ASCII'.count('I')"))
+waarde = eval('x = 5')
+print(waarde)
